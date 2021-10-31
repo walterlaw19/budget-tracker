@@ -18,9 +18,10 @@ Time to save some money for that trip to the Maldives!
 
 ## Demo
 
-![]() "Posting income"
-![]() "view income "
-![]() "remove income"
+![](Readme-images/screenshot1.PNG)"Current income"
+![](Readme-images/screenshot2.PNG) "Posting transaction offline"
+![](Readme-images/screenshot3.PNG) "message the transaction has been recorded"
+![](Readme-images/screenshot4.PNG) "Transaction adjusted after back online"
 
 ## Deployment
 
