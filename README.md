@@ -25,7 +25,7 @@ Time to save some money for that trip to the Maldives!
 ## Deployment
 
 click here to view the application:
-<!-- https://walt-first-tech-blog.herokuapp.com/ -->  ENTER NEW VIDEO LINK
+https://shrieking-crypt-06375.herokuapp.com/   
 
 ## Usage
 
