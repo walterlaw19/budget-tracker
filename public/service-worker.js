@@ -15,7 +15,8 @@ const FILES_TO_CACHE = [
   './icons/icon-144x144.png',
   './icons/icon-128x128.png',
   './icons/icon-96x96.png',
-  './icons/icon-72x72.png'
+  './icons/icon-72x72.png',
+  './service-worker.js'
 ];
 
 self.addEventListener('install', function (e) {
